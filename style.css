@@ -1,0 +1,29 @@
+body{
+    text-align: center;     
+}
+ul{
+    cursor: pointer;
+list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    font-family: fantasy;
+    z-index: 1;
+    
+    
+}
+.h{
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+    
+}
+img{
+    left: 1000px;
+    height: 80px;
+    top: 50px;
+}
+
+}
